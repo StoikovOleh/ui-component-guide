@@ -53,6 +53,7 @@ section.info-section {
 
 .fade {
     opacity: unset;
+
 }
 
 .list-group-item, .list-group-item:first-child, .list-group-item:last-child {
@@ -65,4 +66,8 @@ section.info-section {
 
 .card-img-overlay {
     color: #fff !important;
+}
+
+.fade {
+    opacity: unset;
 }
