@@ -9,22 +9,17 @@ export default {
     component: PaginationComponent,
     args: {
         onPageChange: () => true,
-        totalDataCount: 60,
-        countForPage: 5,
-        currentPage: 7,
+        pages: 60,
+        page: 7,
         prevBtnText: '',
         nextBtnText: '',
     },
     argTypes: {
-        totalDataCount: {
+        pages: {
             control: 'number',
             ...getComponentPropType('number'),
         },
-        countForPage: {
-            control: 'number',
-            ...getComponentPropType('number'),
-        },
-        currentPage: {
+        page: {
             control: 'number',
             ...getComponentPropType('number'),
         },
