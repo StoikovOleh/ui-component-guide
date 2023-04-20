@@ -9,11 +9,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
-<<<<<<< HEAD
     "@paysera/react-common": "4.0.7",
-=======
-    "@paysera/react-common": "^4.0.7",
->>>>>>> b4df930331fa882deff7156f6b2ad281942f1f3d
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/builder-webpack5": "^6.5.15",
     "@storybook/manager-webpack5": "^6.5.15",
